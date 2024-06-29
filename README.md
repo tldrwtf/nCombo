@@ -1,4 +1,6 @@
-Co-Pilot Written
+Co-Pilot Written README
+
+
 This Python script creates a graphical user interface (GUI) tool named nCombo using the `tkinter` library. The tool is designed for manipulating text files, offering functionalities like merging, deduplicating, sorting, filtering, splitting, and appending content of files. It provides a user-friendly way to perform these operations without needing to write custom scripts or use command-line tools.
 
 ### GUI Components and Layout
